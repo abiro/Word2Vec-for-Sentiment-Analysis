@@ -1,0 +1,12 @@
+data
+word2vec/out
+word2vec/text8
+word2vec/questions-words.txt
+word2vec/word2vec_ops.so
+env
+*.swp
+*.swo
+*.pyc
+*.so
+.DS_Store
+data.zip
